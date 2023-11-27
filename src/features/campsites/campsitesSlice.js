@@ -1,5 +1,4 @@
-import {CAMPSITES} from `../../app/shared/CAMPSITES`;
-import CampsitesList from "./CampsitesList";
+import {CAMPSITES} from "../../app/shared/CAMPSITES";
 
 export const selectAllCampsites = () => {
     return CAMPSITES;
